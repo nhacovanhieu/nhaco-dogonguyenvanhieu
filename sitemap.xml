@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nhacovanhieu.github.io/nhaco-dogonguyenvanhieu/</loc>
+    <lastmod>2025-07-18</lastmod>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://nhacovanhieu.github.io/nhaco-dogonguyenvanhieu/gioi-thieu.html</loc>
+    <lastmod>2025-07-18</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nhacovanhieu.github.io/nhaco-dogonguyenvanhieu/lien-he.html</loc>
+    <lastmod>2025-07-18</lastmod>
+    <priority>0.8</priority>
   </url>
+  <!-- Nếu bạn có thêm các trang như san-pham.html, dich-vu.html... hãy thêm tiếp dưới đây -->
 </urlset>
